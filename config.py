@@ -1,6 +1,6 @@
 import time
 
-token = '362081816:AAHJDOcduFmglfDBl2vcCfrL98rP5ZXBBc4'
+token = ''
 goRegister = False
 
 
